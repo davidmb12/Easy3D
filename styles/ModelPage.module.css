@@ -1,0 +1,10 @@
+.scene{
+    height: 100vh;
+    grid-column: span 4;
+    padding: 2em;
+}
+
+.canvas{
+    background:#000;
+
+}
